@@ -5,7 +5,7 @@ ISII 2026 -Trabajo de Campo -Grupo 32
 Este es un proyecto en desarrollo como parte del curso de la materia Ingeniería de Software II de la carrera Lic. en Sistemas de Información de la UNNE. En esta etapa, nos encontramos trabajando en las funcionalidades básicas del sistema.
 
 🛠️ Tecnologías utilizadas
-Backend: PHP 
+Backend: PHP con CodeIgniter 3.1.13-0
 Frontend: HTML, CSS, JavaScript
 Base de datos: MySQL
 Control de versiones: GitHub
@@ -19,10 +19,8 @@ Somos un equipo de 2 integrantes trabajando en colaboración:
 
 📌 Funcionalidades previstas
 Registro e inicio de sesión de usuarios
--
--
--
-
+- Carga de paciente
+- Carga de historia clínica
 
 🔧 Cómo ejecutar el proyecto ( proximamente)
 
