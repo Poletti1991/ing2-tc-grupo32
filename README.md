@@ -22,6 +22,9 @@ Registro e inicio de sesión de usuarios
 - Carga de paciente
 - Carga de historia clínica
 
+- Código
+- https://drive.google.com/file/d/1i91VDgdi8vCWirSJWc0kwoIcU7_RSxT2/view?usp=drive_link
+
 🔧 Cómo ejecutar el proyecto ( proximamente)
 
 Importar la base de datos desde el archivo correspondiente (próximamente).
